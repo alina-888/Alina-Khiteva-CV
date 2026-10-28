@@ -1,10 +1,10 @@
 # Алина Хитёва
-khitevaa@gmail.com | [github.com/alina-888](https://github.com/alina-888)
+khitevaa@gmail.com | [github.com/alina-888](https://github.com/alina-888) | [raeven.me](https://raeven.me)
 
 ---
 
 ## Профиль
-Ученица IV курса IT-направления гимназии «Смарт» с опытом в веб-разработке (Python/Django стек) и командных проектах. Ищу стажировку или сотрудничество на реальных проектах для применения и расширения своих знаний.
+Студентка 1 курса направления «Программная инженерия и информационные технологии» Факультета технических наук (FTN) Университета Нови-Сада. Есть опыт в веб-разработке (Python/Django стек) и командных хакатон-проектах. Ищу стажировку или сотрудничество на реальных проектах для применения и расширения своих знаний.
 
 ---
 
@@ -16,25 +16,31 @@ khitevaa@gmail.com | [github.com/alina-888](https://github.com/alina-888)
 ---
 
 ## Образование
-**Гимназия «Смарт»**, направление IT — Нови Сад, Сербия
-IV год обучения (выпускной)
+**Факультет технических наук (FTN), Университет Нови-Сада**
+Программная инженерия и информационные технологии — 1 курс (2026 — н.в.)
 
-**МОУСОШ №29, г.о. Подольск** — 9 классов
+**Гимназия «Смарт»**, направление IT — Нови-Сад, Сербия
+Окончила в 2026
 
-**Яндекс Лицей — «Веб-разработка на Django»**
-Сертификат: [ссылка](https://lms.yandex.ru/certificate/check/?certNumber=2487262148&lastName=%D0%A5%D0%B8%D1%82%D1%91%D0%B2%D0%B0)
+---
+
+## Курсы и сертификаты
+- **Школа анализа данных Яндекса — интенсив «AI Agents Security Week»** (июль 2026) — [сертификат](https://raeven.me/certificates/yandex-shad-ai-agents-security-week-ru.pdf)
+- **Яндекс Лицей — «Веб-разработка на Django»** — [сертификат](https://lms.yandex.ru/certificate/check/?certNumber=2487262148&lastName=%D0%A5%D0%B8%D1%82%D1%91%D0%B2%D0%B0)
 
 ---
 
 ## Проекты
-- **[Guess What](https://github.com/alina-888/guess-what)** *(Яндекс Лицей, командный)* — многопользовательская веб-игра для рисования в реальном времени; Django + AJAX; 3-е место в конкурсе проектов
-- **[SmartCart](https://github.com/Caffeine-Overflowed/smartcart)** *(командный, хакатон)* — AI-ассистент для покупок на основе Google Gemini с function calling; поиск товаров и сравнение цен в сербских супермаркетах через чат на естественном языке
+- **[HomeSight](https://github.com/Caffeine-Overflowed/home-sight)** *(командный, FON Hackathon — финал)* — AI-платформа оценки качества жизни в Белграде: интерактивная карта с рейтингом 182 000+ жилых домов по инфраструктуре, экологии, транспорту и району; FastAPI + Strawberry GraphQL, PostgreSQL/PostGIS, Next.js + Mapbox GL; модели Gradient Boosting, обученные на разметке LLM-as-judge
+- **[SmartCart](https://github.com/Caffeine-Overflowed/smartcart)** *(командный, хакатон — 3-е место)* — AI-ассистент для покупок на основе Google Gemini с function calling; поиск товаров и сравнение цен в сербских супермаркетах через чат на естественном языке
 - **[MatchFit](https://github.com/Caffeine-Overflowed/matchfit)** *(командный, хакатон)* — социальная платформа для поиска спортивных партнёров; свайп-интерфейс, геолокационный матчинг и real-time чат
+- **[Guess What](https://github.com/alina-888/guess-what)** *(Яндекс Лицей, командный)* — многопользовательская веб-игра для рисования в реальном времени; Django + AJAX; 3-е место в конкурсе проектов
 - **GitHub:** [github.com/alina-888](https://github.com/alina-888)
 
 ---
 
 ## Достижения и участие
+- **Финалистка** — FON Hackathon (апрель 2026)
 - **3-е место** — Hakaton za srednjoškolce 8.0 (2026)
 - **Финалистка** — Hakaton za srednjoškolce 6.0 (2023)
 - Участница конференции **IT Girls**, Сараево (UNICEF)
